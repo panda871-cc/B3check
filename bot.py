@@ -6,7 +6,7 @@ import re
 BOT_TOKEN = '8313941298:AAEEzTrlO5P8J3QNZM0fsRXM--nhR1p-6hw' #here bot token nigga
 # Apne dono API ke URLs yahan daalein
 STRIPE_API_URL = "https://B3check.onrender.com/check" 
-BRAINTREE_API_URL = "https://b3check.onrender.com/braintree" # Isko apne naye API URL se badalna
+BRAINTREE_API_URL = "https://8607fa30-126e-4b1f-9a9a-1d7079a2f269-00-2wpk6i863hlaw.pike.replit.dev/" # Isko apne naye API URL se badalna
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
